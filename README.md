@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashurleymccabe)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fXWneGkAAAAJ&hl=en)
 
-I'm an R&D data scientist at <a href="https://www.lmi.org/">LMI</a> and a computer science PhD candidate at <a href="https://www.cs.seas.gwu.edu">GW</a>, advised by <a href="https://www2.seas.gwu.edu/~howie/">Howie Huang</a>. I am broadly interested in machine learning and computational social science.
+I am Data Science Fellow at <a href="https://www.lmi.org/">LMI</a> and a computer science PhD candidate at <a href="https://www.cs.seas.gwu.edu">GW</a>, advised by <a href="https://www2.seas.gwu.edu/~howie/">Howie Huang</a>. I am broadly interested in machine learning and computational social science.
 
 ---
 
