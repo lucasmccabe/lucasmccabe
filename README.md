@@ -3,6 +3,6 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fXWneGkAAAAJ&hl=en)
 
 I am Data Science Fellow at <a href="https://www.lmisolutions.com">LMI</a> and a computer science PhD candidate at <a href="https://cs.engineering.gwu.edu">GW</a>, supervised by <a href="https://www2.seas.gwu.edu/~howie/">H. Howie Huang</a>.
-The primary thrust of my research involves statistical and algorithmic aspects of trustworthiness in machine learning systems. 
-My current focus pertains to generative language models, including uncertainty quantification and interpretability. 
-I am also interested in interdisciplinary applications of data and network science. 
+The primary thrust of my research examines statistical and algorithmic aspects of trustworthiness in machine learning systems. 
+My current focus pertains to generative language models, including uncertainty quantification. 
+Please see my <a href="https://lucasmccabe.github.io/research/">research themes</a> and <a href="https://lucasmccabe.github.io/works/">works</a> for more.
